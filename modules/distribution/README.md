@@ -1,8 +1,8 @@
-#WSO2 Identity Server Organization Management Connector
+# WSO2 Identity Server Organization Management Connector
 
-##Try Locally:
+## Try Locally:
 
-###Prerequisites:
+### Prerequisites:
 
    1. Download WSO2 IS product
    2. Download the WSO2 Identity Server Organization Management Connector
